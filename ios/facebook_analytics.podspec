@@ -15,7 +15,7 @@ Facebook Analytics
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'FBSDKCoreKit', '~> 6.5.2'
+  s.dependency 'FBSDKCoreKit', '~> 6.5'
 
   s.ios.deployment_target = '9.0'
 end
